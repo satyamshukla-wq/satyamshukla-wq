@@ -7,7 +7,7 @@ Passionate developer
 ## 🚀 Languages and Tools I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,spring,mysql,git,postman,python,js,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,git,postman,python,react" />
 </p>
 
 ---
