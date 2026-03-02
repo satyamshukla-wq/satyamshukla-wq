@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Satyam
 
-Passionate developer
+Passionate Developer
 
 ---
 
